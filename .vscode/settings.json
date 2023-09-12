@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.py": "python",
+        "soundfx.h": "c",
+        "tile.h": "c",
+        "plasma.h": "c",
+        "game.h": "c",
+        "dave.h": "c",
+        "bullet.h": "c"
+    }
+}
